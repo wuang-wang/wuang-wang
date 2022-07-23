@@ -9,10 +9,6 @@
 <a href="https://github.com/wuang-wang?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=wuang-wang&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@吾昂王's github-readme-streak-stats"/></a>
 </p>
 
-
-<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
-
-
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@吾昂王">
