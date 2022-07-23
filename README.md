@@ -48,10 +48,5 @@
 
 
 <p align="center">
-<a href="https://stackexchange.com/users/17728350/wuang-wang?tab=accounts"><img src="https://stackexchange.com/users/flair/17728350.png?theme=dark" width="208" height="58" alt="Профиль участника Aleksey 吾昂王 в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Aleksey 吾昂王 в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
-</p>
-
-
-<p align="center">
 <a href="https://gist.github.com/wuang-wang"><img src="https://profile-counter.glitch.me/{wuang-wang}/count.svg" alt="wuang-wang :: Visitor's Count" /></a>
 </p>
