@@ -18,7 +18,7 @@
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://github.com/wuang-wang?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=wuang-wang&theme=onestar&no-frame=true&column=6&row=1"  width="38%" alt="@吾昂王's trophy stats"/></a>
+<a href="https://github.com/wuang-wang?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=wuang-wang&theme=onestar&no-frame=true&column=6&row=1"  width=95%" alt="@吾昂王's trophy stats"/></a>
 </p>
 
 
