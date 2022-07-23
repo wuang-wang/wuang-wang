@@ -11,7 +11,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@吾昂王">
+    <a href="https://wakatime.com/@wuang-wang">
         <img src="https://activity-graph.herokuapp.com/graph?username=wuang-wang&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@吾昂王"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=吾昂王&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@吾昂王's wakatime stats"/></a>
+<a href="https://wakatime.com/@wuang-wang"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=吾昂王&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14"  width="58%" alt="@吾昂王's wakatime stats"/></a>
 <a href="https://github.com/wuang-wang?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=wuang-wang&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@吾昂王's trophy stats"/></a>
 </p>
 
@@ -28,9 +28,6 @@
 <a href="https://github.com/pulls?q=is%3Apr+author%3Awuang-wang+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wuang-wang&theme=github_dark&utcOffset=4"  width="31%" alt="@吾昂王's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3Awuang-wang+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wuang-wang&theme=github_dark&hide_border=true"  width="64%" alt="@吾昂王's profile-details"/></a>
 </p>
-
-
-<a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
 
 <p align="center">
