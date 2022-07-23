@@ -1,28 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
 
-[//]: # ([<img align='right' width="200"  alt="giphy" src="https://raw.githubusercontent.com/wuang-wang/wuang-wang/master/assets/cfh.gif?raw=true">]&#40;https://t.me/wuang-wang_aleksey&#41;)
-
-
 # Hey! 👋 Nice to see you. #
-
-
-<a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
-<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
-<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
-<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
-<a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
-
-
-<a href="mailto:吾昂王.aleksey@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
-<a href="https://t.me/吾昂王_aleksey"><img src="./assets/telegram.webp" alt="Telegram" height="50" title="Send message"></a>
-<a href="https://ru.stackoverflow.com/users/371584/wuang-wang"><img src="./assets/stack_overflow.svg" alt="ru.stackoverflow" height="50" title="ru.stackoverflow profile"></a>
-<a href="https://stackoverflow.com/users/13531449/wuang-wang"><img src="./assets/stack_overflow.svg" alt="stackoverflow" height="50" title="stackoverflow profile"></a>
-<a href="https://askubuntu.com/users/1561126/wuang-wang"><img src="./assets/ubuntu.svg" alt="askubuntu" height="50" title="askubuntu profile"></a>
-<a href="https://freelance.habr.com/freelancers/吾昂王_Aleksey"><img src="./assets/habr.png" alt="freelance.habr" height="50" title="freelance.habr profile"></a>
-<a href="https://github.com/OldCodersClub"><img src="./assets/oldcodersclub.png" alt="OldCodersClub" height="50" title="Клуб дедов-программистов"></a>
-<a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
-<a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
 
 
 <p align="center">
